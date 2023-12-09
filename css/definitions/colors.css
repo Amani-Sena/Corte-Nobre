@@ -1,0 +1,17 @@
+:root {
+  --P-normal: #06121e;
+  --P-dark: #040f1a;
+  --P-light: #0c2135;
+  --S-normal: #090d11;
+  --S-dark: #06090c;
+  --S-light: #1a1f25;
+  --black-normal: #232224;
+  --black-dark: #161617;
+  --black-light: #353436;
+  --white-normal: #FFF;
+  --white-dark: #edeaef;
+  --white-light: #fefbff;
+  --red-normal: #d94140;
+  --red-dark: #b42b2b;
+  --red-light: #d34040;
+}/*# sourceMappingURL=colors.css.map */
